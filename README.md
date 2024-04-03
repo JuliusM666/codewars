@@ -1,5 +1,5 @@
 # codewars
-[codewars profile](https://www.codewars.com/users/Shashamga)
+link: [codewars profile](https://www.codewars.com/users/Shashamga)
 
 
 ![alt text](profile_1.png)
